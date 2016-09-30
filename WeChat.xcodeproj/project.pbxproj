@@ -1752,7 +1752,7 @@
 					"$(PROJECT_DIR)$(LOCAL_LIBRARY_DIR)/XMPP/Vendor/libidn",
 				);
 				OTHER_LDFLAGS = "-lxml2";
-				PRODUCT_BUNDLE_IDENTIFIER = com.caobin.WeChat;
+				PRODUCT_BUNDLE_IDENTIFIER = com.eshore.yimuqq;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -1771,7 +1771,7 @@
 					"$(PROJECT_DIR)$(LOCAL_LIBRARY_DIR)/XMPP/Vendor/libidn",
 				);
 				OTHER_LDFLAGS = "-lxml2";
-				PRODUCT_BUNDLE_IDENTIFIER = com.caobin.WeChat;
+				PRODUCT_BUNDLE_IDENTIFIER = com.eshore.yimuqq;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
